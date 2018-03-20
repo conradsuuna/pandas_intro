@@ -1,7 +1,7 @@
 # pandas_intro
 Brief introduction to data processing in python using pandas. Presented at AI Research Lab, Makerere University on March 15, 2018
 
-#Dependencies
+# Dependencies
 
 Make sure you have python 3.6
 
@@ -11,7 +11,7 @@ pip install pandas
 
 pip install jupyterlab
 
-#Issues
+# Issues
 
 This was just a brief exercise to demonstrate the power of pandas at a Beginner
-level. 
+level.
